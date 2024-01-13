@@ -24,6 +24,12 @@
     border: 0;
 
 }
+.section-tittle {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #131313;
+
+}
 
 /* header styles */
 header {
@@ -37,12 +43,7 @@ nav {
     align-items: center;
 }
 
-.nav-tittle {
-    font-size: 2.8rem;
-    font-weight: 700;
-    color: #131313;
 
-}
 
 nav>ul {
     display: flex;
